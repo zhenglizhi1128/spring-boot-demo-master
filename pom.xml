@@ -70,6 +70,14 @@
     <module>demo-https</module>
     <module>demo-flyway</module>
     <module>demo-pay</module>
+    <module>demo-sso</module>
+    <module>demo-grpc</module>
+    <module>demo-phone-number-geo-dat</module>
+    <module>demo-phone-number-geo-txt</module>
+    <module>demo-elastic-stack</module>
+    <module>demo-sharding-jdbc-yml</module>
+    <module>demo-sharding-jdbc-java</module>
+    <module>demo-minio</module>
   </modules>
   <packaging>pom</packaging>
 
